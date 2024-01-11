@@ -13,5 +13,6 @@
   py文件跟txt文件放一个文件夹下就行。自己电脑运行，服务器，还是定时任务平台都可以。
 ### 3.问题
   domain_a.py文件运行的时候可能出现报错"API请求失败，返回码: None",无能为力解决。
+  
   domain_w.py文件运行的时候可能出现报错"Error trying to connect to socket: closing socket - [Errno -3] Try again",也无能为力解决。
 
