@@ -14,3 +14,4 @@
 ### 3.问题
   domain_a.py文件运行的时候可能出现报错"API请求失败，返回码: None",无能为力解决。
   domain_w.py文件运行的时候可能出现报错"Error trying to connect to socket: closing socket - [Errno -3] Try again",也无能为力解决。
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
